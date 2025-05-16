@@ -38,5 +38,5 @@ The API will be available at:
 After running the app, access Swagger UI:
 📚 http://localhost:8080/swagger-ui.html
 
-Or OpenAPI spec (openapi.yaml) available under:
+OpenAPI spec (openapi.yaml) available under:
 📁 openapi.yaml(https://github.com/MVSAI2015/CustomerManagementAPI/blob/main/api-spec.yaml)
