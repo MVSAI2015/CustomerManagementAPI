@@ -39,4 +39,4 @@ After running the app, access Swagger UI:
 📚 http://localhost:8080/swagger-ui.html
 
 Or OpenAPI spec (openapi.yaml) available under:
-📁 src/main/resources/openapi.yaml
+📁 openapi.yaml(https://github.com/MVSAI2015/CustomerManagementAPI/blob/main/api-spec.yaml)
